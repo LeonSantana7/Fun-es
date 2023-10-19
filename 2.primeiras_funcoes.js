@@ -6,7 +6,7 @@ function imprimirOla() {
 
 imprimirOla();
 
-let variaveis = {
+const variaveis = {
     a : 10,
     b: 5,
 }
